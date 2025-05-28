@@ -1,1 +1,1 @@
-# Sales_Data_analysis
+Analyzed sales data for a retail company using SQL and Tableau. Built an interactive dashboard to visualize sales trends, customer purchase behavior, and product performance. Utilized SQL for data extraction and transformation, and Tableau to create dynamic visualizations that highlight key business insights. Focused on delivering clean, insightful reports to support data-driven decisions.
